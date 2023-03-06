@@ -4,8 +4,8 @@
 - If you have a problem contact me on [discord.com](https://discord.com/users/1015845680067133480) 👀
 
 # My projects
-## AykoBot
-- Serving via Discord, Ayko aims to perfect classical systems.
+## Ayko
+- Serving via Discord, Ayko Bot aims to perfect classical systems.
 - Did you like? then you can [add](https://discord.com/api/oauth2/authorize?client_id=1015702634423910512&permissions=8&scope=bot%20applications.commands) ^^
 
 ## Bot Center - Botlist #Uptime
