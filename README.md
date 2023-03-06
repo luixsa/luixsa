@@ -18,4 +18,4 @@
 - My favorite rappers Norm Ender, Şehinşah, Joker and Contra
 - I find the old-school more successful 😋
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rirsi6rbffpdojujds57ru654y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=70d29545b09f4b37b3d88b388c242574&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
